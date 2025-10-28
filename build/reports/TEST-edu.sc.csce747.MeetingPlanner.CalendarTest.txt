@@ -1,0 +1,11 @@
+Testsuite: edu.sc.csce747.MeetingPlanner.CalendarTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 sec
+
+Testcase: testAddMeeting_invalidDay_throws took 0.005 sec
+Testcase: testAddMeeting_validTimeslot took 0 sec
+Testcase: testAddMeeting_invalidMonth_throws took 0 sec
+Testcase: testAddMeeting_endBeforeStart_throws took 0 sec
+Testcase: testAddMeeting_holiday took 0 sec
+Testcase: testIsBusy_detectsOverlapBoundaries took 0 sec
+Testcase: testDecemberAllowed_validCase took 0 sec
+Testcase: testAddMeeting_invalidNegativeHour_throws took 0 sec
